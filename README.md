@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width=500px/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width=150px/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/emmanuel-ugbaje-b19227161/">
@@ -47,7 +47,22 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" alt="Vim" width="40" height="40"/>&nbsp;
 </div>
-:fire: My Stats :
-<div id="My stats" align="center">
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Oghie-1&theme=dark)](https://git.io/streak-stats)
-</div>
+
+📢 Rundown
+<table>
+    <thead>
+        <tr>
+            <th><div id="profile post"><p id="post" fontsize="10">
+            I am a solution-driven product manager with a passion for sustainability and a diverse set of skills that includes project management, entrepreneurship, research, operations, and sales. I am currently a graduate student of renewable energy and sustainable technology at USW and an experienced project/product operations manager with three years of experience.
+
+I am committed to making a positive impact on the world through my work and my focus on sustainability. Having been a Google Africa Developer and a recipient of the ALX scholarship, I am deeply passionate about using technology to drive positive change and create a better future for our planet.
+
+As a product manager, I thrive in a fast-paced and collaborative environment. I have a proven track record of creating value early, developing a balanced product strategy, and ensuring that agreed-upon objectives and goals are met. My approach is customer-centric, and I seek to understand and address their pain points while also meeting the needs of the business.
+
+I have experience working in complex environments and managing cross-functional teams to deliver successful products. I believe that collaboration and communication are key to achieving success, and I work tirelessly to ensure that everyone involved in a project is aligned and working towards the same goals.
+
+I am currently seeking a challenging and rewarding product manager position where I can leverage my experience in product development and management to drive growth and success for the organization. I am excited about the opportunity to work on sustainable projects that align with my values and passion, and to use my skills and experience to make a positive impact on the world.
+
+Thank you for taking the time to visit my Git profile, and I look forward to the opportunity to collaborate and make a difference together.</p></div>
+          </th></tr></thead></table>
+ 
