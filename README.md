@@ -32,7 +32,7 @@
 <p>📫 How to reach me:  <a href="https://www.linkedin.com/in/emmanuel-ugbaje-b19227161/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a></p>
-  
+
 ### :hammer_and_wrench: Languages and Tools : 
 <div id="Language and Tools" align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Java" width="40" height="40"/>&nbsp;
@@ -46,4 +46,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" alt="Vim" width="40" height="40"/>&nbsp;
+</div>
+:fire: My Stats :
+<div id="My stats" align="center">
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Oghie-1&theme=dark)](https://git.io/streak-stats)
 </div>
